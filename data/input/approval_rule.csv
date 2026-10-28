@@ -1,0 +1,6 @@
+approval_rule_id,request_type,threshold,approval_level,approver_role,effective_from,effective_to
+RULE-001,EXPENSE,0,1,Manager,2026-01-01,2026-12-31
+RULE-002,EXPENSE,1000,2,Finance,2026-01-01,2026-12-31
+RULE-003,EXPENSE,5000,3,Director,2026-01-01,2026-12-31
+RULE-004,LEAVE,0,1,Manager,2026-01-01,2026-12-31
+RULE-005,LEAVE,10,2,HR,2026-01-01,2026-12-31

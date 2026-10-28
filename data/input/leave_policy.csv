@@ -1,0 +1,7 @@
+leave_policy_id,policy_name,country,annual_entitlement_days,max_consecutive_days,carryover_cap_days,effective_from,effective_to,requires_documentation
+LVP-001,Annual,GLOBAL,18,15,5,2026-01-01,2026-12-31,False
+LVP-002,Sick,GLOBAL,10,10,0,2026-01-01,2026-12-31,True
+LVP-003,Casual,GLOBAL,7,5,0,2026-01-01,2026-12-31,False
+LVP-004,Personal,GLOBAL,3,3,0,2026-01-01,2026-12-31,False
+LVP-005,Parental,GLOBAL,90,90,0,2026-01-01,2026-12-31,True
+LVP-006,Unpaid,GLOBAL,0,30,0,2026-01-01,2026-12-31,False

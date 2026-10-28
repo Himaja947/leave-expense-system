@@ -1,0 +1,7 @@
+expense_policy_id,category,country,per_claim_limit,receipt_required,second_level_threshold,executive_threshold,effective_from,effective_to,requires_second_level
+EXPP-001,Travel,GLOBAL,2500,True,1000,5000,2026-01-01,2026-12-31,True
+EXPP-002,Meals,GLOBAL,150,True,1000,5000,2026-01-01,2026-12-31,False
+EXPP-003,Lodging,GLOBAL,500,True,1000,5000,2026-01-01,2026-12-31,True
+EXPP-004,Supplies,GLOBAL,400,False,1000,5000,2026-01-01,2026-12-31,False
+EXPP-005,Training,GLOBAL,1200,True,1000,5000,2026-01-01,2026-12-31,True
+EXPP-006,Other,GLOBAL,250,True,1000,5000,2026-01-01,2026-12-31,False

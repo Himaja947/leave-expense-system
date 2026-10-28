@@ -1,0 +1,9 @@
+cost_center_id,name,country,annual_budget
+CC-ENG,Engineering,IN,1800000
+CC-SAL,Sales,IN,1200000
+CC-OPS,Operations,IN,950000
+CC-FIN,Finance,IN,800000
+CC-PPL,People,IN,500000
+CC-MKT,Marketing,IN,750000
+CC-ENG-US,Engineering,US,2400000
+CC-SAL-GB,Sales,GB,1400000

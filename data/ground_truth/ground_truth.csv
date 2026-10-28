@@ -1,0 +1,12 @@
+entity_type,entity_id,issue_type,expected_label,rule_basis
+ExpenseClaim,EXP-2026-000011,POLICY_LIMIT_BREACH,EXCEPTION,"Documented workflow scenario injection; evaluate against policy, joins, and event history"
+ExpenseClaim,EXP-2026-000012,SPLIT_CLAIM_THRESHOLD_EVASION,ANOMALY,"Documented workflow scenario injection; evaluate against policy, joins, and event history"
+ExpenseClaim,EXP-2026-000013,MISSING_COST_CENTER,ANOMALY,"Documented workflow scenario injection; evaluate against policy, joins, and event history"
+ExpenseClaim,EXP-2026-000014,REQUESTER_APPROVAL,ANOMALY,"Documented workflow scenario injection; evaluate against policy, joins, and event history"
+ExpenseClaim,EXP-2026-000015,EXPENSE_OUTSIDE_EMPLOYMENT,ANOMALY,"Documented workflow scenario injection; evaluate against policy, joins, and event history"
+ExpenseClaim,EXP-2026-000016,DUPLICATE_REIMBURSEMENT,ANOMALY,"Documented workflow scenario injection; evaluate against policy, joins, and event history"
+ExpenseClaim,EXP-2026-000017,DUPLICATE_RECEIPT_HASH,ANOMALY,"Documented workflow scenario injection; evaluate against policy, joins, and event history"
+LeaveRequest,LVE-2026-000002,OVERLAPPING_APPROVED_LEAVE,ANOMALY,Leave overlap/balance/date rules and labeled scenario
+LeaveRequest,LVE-2026-000003,INSUFFICIENT_BALANCE,EXCEPTION,Leave overlap/balance/date rules and labeled scenario
+LeaveRequest,LVE-2026-000004,WEEKEND_HOLIDAY_SPAN,NORMAL,Leave overlap/balance/date rules and labeled scenario
+LeaveRequest,LVE-2026-000005,NEGATIVE_BALANCE,ANOMALY,Leave overlap/balance/date rules and labeled scenario
